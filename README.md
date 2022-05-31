@@ -1,7 +1,7 @@
 ### Hi there 👋, Matias Here!!
 #### FullStack Developer
 
-Skills: Linux / C / Python / JavaScript(NodeJs,Express) / Mysql / HTML / CSS
+Skills: Linux / C / Python / MEARN Stack / Mysql / HTML / CSS
 
 
 
